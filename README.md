@@ -22,5 +22,5 @@ You can install the GitHub version of mayotheme with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("overdodactyl/mayotheme")
+devtools::install_github("mayoverse/mayotheme")
 ```
