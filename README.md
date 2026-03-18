@@ -5,10 +5,6 @@
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.org/overdodactyl/mayotheme.svg?branch=master)](https://travis-ci.org/overdodactyl/mayotheme)
-[![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 The goal of mayotheme is to host commonly used Mayo Clinic colors,
@@ -22,5 +18,5 @@ You can install the GitHub version of mayotheme with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("mayoverse/mayotheme")
+devtools::install_github("KhoslaLab/mayotheme")
 ```
