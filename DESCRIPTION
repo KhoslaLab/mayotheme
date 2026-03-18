@@ -1,7 +1,7 @@
 Package: mayotheme
 Type: Package
 Title: Mayo Clinic Theming
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person(given = "Pat",
            family = "Johnson",
@@ -12,7 +12,7 @@ Authors@R: c(
            role = c("ctb"),
            comment = c(ORCID = "0000-0001-9911-4136")))
 Description: Hosts common colors, themes, logos and css files for Mayo Clinic use.
-URL: https://mayoverse.github.io/mayotheme, https://github.com/mayoverse/mayotheme/
+URL: https://github.com/KhoslaLab/mayotheme/
 License: GPL-3
 Depends: R (>= 2.10)
 Encoding: UTF-8
